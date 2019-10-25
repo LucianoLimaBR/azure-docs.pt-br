@@ -15,7 +15,7 @@ ms.locfileid: "71338220"
 ---
 # <a name="azure-resource-manager-overview"></a>Visão geral do Azure Resource Manager
 
-O Azure Resource Manager é p serviço de implantação e gerenciamento do Azure. Ele fornece uma camada de gerenciamento que lhe permite criar, atualizar e excluir recursos em sua assinatura do Azure. Use recursos de gerenciamento, como controle de acesso, bloqueios e marcas, para proteger e organizar seus recursos após a implantação.
+O Azure Resource Manager é o serviço de implantação e gerenciamento do Azure. Ele fornece uma camada de gerenciamento que lhe permite criar, atualizar e excluir recursos em sua assinatura do Azure. Use recursos de gerenciamento, como controle de acesso, bloqueios e marcas, para proteger e organizar seus recursos após a implantação.
 
 Para saber mais sobre os modelos do Azure Resource Manager, confira [Visão geral de implantação de modelo](template-deployment-overview.md).
 
